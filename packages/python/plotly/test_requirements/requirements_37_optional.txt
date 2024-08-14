@@ -1,10 +1,10 @@
-requests==2.12.4
+requests==2.32.2
 tenacity==6.2.0
 pandas==0.24.2
-numpy==1.19.5
+numpy==1.22.0
 xarray==0.10.9
 statsmodels==0.10.2
-pillow==6.2.0
+pillow==10.3.0
 pytest==3.5.1
 pytz==2016.10
 ipython[all]==5.4.0
@@ -19,4 +19,4 @@ matplotlib==3.5.3
 scikit-image==0.14.4
 psutil==5.7.0
 kaleido
-orjson==3.8.12
+orjson==3.9.15
