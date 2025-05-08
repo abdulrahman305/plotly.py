@@ -19,3 +19,4 @@ matplotlib==3.7.3
 scikit-image==0.18.1
 psutil==5.7.0
 kaleido
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
