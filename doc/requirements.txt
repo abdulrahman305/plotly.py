@@ -46,3 +46,4 @@ statsmodels==0.14.2
 umap-learn==0.5.1
 wget
 xarray==2022.9.0
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
